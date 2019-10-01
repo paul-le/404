@@ -14,15 +14,17 @@ h1{
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	margin-top: 250px;
+	margin-top: 200px;
 	margin-bottom:0px;
 	padding-bottom: 0px;
+	text-shadow: 1.5px 1.5px 1.5px pink;
 }
 h2{
 	display:flex;
 	font-size: 47px;
 	margin-top: 0px;
 	margin-bottom: 2px;
+	text-shadow: 1.5px 1.5px 1.5px pink;
 }
 .contenu{
 	display: flex;
@@ -35,6 +37,7 @@ h2{
 	font-size: 12px;
 	margin-bottom: 150px;
 	font-weight: bold;
+	text-shadow: 2px 2px 2px pink;
 
 }
 
@@ -42,6 +45,7 @@ h2{
 	font-size: 40px;
 	text-align: center;
 	font-weight: bold;
+	text-shadow: 3px 3px 3px pink;
 }
 
 img{
@@ -60,7 +64,7 @@ img{
 }
 .place{
 	text-align: center;
-	margin-top:100px;
+	margin-top:0px;
 	font-family: 'Mansalva', cursive;
 }
 
@@ -70,6 +74,7 @@ img{
 }
 .exit{
 	margin-left: 85%;
+	text-shadow: 3px 3px 3px pink;
 }
 a{
 	color: white;
