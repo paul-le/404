@@ -56,6 +56,7 @@ img{
 .brainimage{
 	height: 500px;
 	width: 615px;
+	border-radius: 100%;
 }
 .place{
 	text-align: center;
@@ -81,4 +82,18 @@ a{
 .social img{
     width: 50px;
     height: 50px;
+    margin-left:3300%;
+    margin-right: 0px;
+    padding: 0px;
+}
+.flags{
+	margin-left: 90%;
+}
+.frenchflag{
+	width:75px;
+	height:50px;
+}
+.englishflag{
+	width: 75px;
+	height: 60px;
 }
