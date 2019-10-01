@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:300,400&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Mansalva&display=swap');
+
+.home{
+	background-image: url("Tbz7MO9.jpg");
+	color:white;
+	font-family: 'Roboto Mono', monospace;
+	background-size: 100%;
+	background-repeat: no-repeat,
+}
+h1{
+	font-size: 75px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-top: 250px;
+	margin-bottom:0px;
+	padding-bottom: 0px;
+}
+h2{
+	display:flex;
+	font-size: 47px;
+	margin-top: 0px;
+	margin-bottom: 2px;
+}
+.contenu{
+	display: flex;
+	flex-direction: column;
+	justify-content:center;
+	align-items:center;
+}
+.page{
+	margin-top: 0px;
+	font-size: 12px;
+	margin-bottom: 150px;
+	font-weight: bold;
+
+}
+
+.text{
+	font-size: 40px;
+	text-align: center;
+	font-weight: bold;
+}
+
+img{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.brain{
+	background-color:color;
+}
+.brainimage{
+	height: 500px;
+	width: 615px;
+}
+.place{
+	text-align: center;
+	margin-top:100px;
+	font-family: 'Mansalva', cursive;
+}
+
+.place:hover{
+	color:pink;
+	font-size: 100px;
+}
+.exit{
+	margin-left: 85%;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+.arrow{
+	height: 150px;
+	width: 150px;
+}
